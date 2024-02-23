@@ -9,7 +9,7 @@
     <img alt="Author" src="https://img.shields.io/badge/author-LucasAugustoCastro-CF0000?style=flat-square" />
   </a>
   <a href="#" target="_blank">
-    <img alt="Author" src="https://img.shields.io/github/languages/count/LucasAugustoCastro/AnimeJotter?color=%23D54F44&style=flat-square" />
+    <img alt="Author" src="https://img.shields.io/github/languages/count/LucasAugustoCastro/YosdaApp?color=%23D54F44&style=flat-square" />
   </a>
 
 </p>
